@@ -1,0 +1,2 @@
+document.write("xfghnsfghnjsfghnbfsghbfcvgbhxfsdfgklidhfasg;dfg;kdfghdfshgfshjgfshbdgfhgfshs");
+document.querySelector
